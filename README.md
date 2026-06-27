@@ -1,2 +1,2 @@
 # mei-byzantine-neumes
-This repository contains the proposal for encoding Byzantine neumes of the New System (Chrysanthine notation) in MEI.
+This repository contains the proposal for encoding Byzantine neumes of the New System (Chrysanthine notation) in MEI as presented at the _International Association of Music Libraries Congress_ (_IAML_) 2026. The proposal is subject to change and be expanded later to earlier systems. We have started with the "new system" as the semantics of the neumes used in this system are better known than that of earlier systems.
