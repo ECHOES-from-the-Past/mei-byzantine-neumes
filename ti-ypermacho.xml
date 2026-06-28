@@ -68,15 +68,15 @@
                                 </syllable>
                                 <syllable>
                                     <syl>go</syl>
-                                    <neume xml:id="neume014" dur="8" intm="+2" intmb="+1" pname="e">
+                                    <neume xml:id="neume014" dur="8" intm="+2" intmb="+1" pname="e" slur="i">
                                         <neume xml:id="neume015" func="melodic" name="oligon" pos="main"/>
                                         <neume xml:id="neume016" func="dynamic/ornamental" name="psifiston" pos="below"/>
                                     </neume> 
-                                    <neume xml:id="neume017" func="melodic temporal" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="i"/>
+                                    <neume xml:id="neume017" func="melodic temporal" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="t"/>
                                 </syllable>
                                 <syllable>
                                     <syl>ta</syl>
-                                    <neume xml:id="neume018" func="melodic temporal" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c" slur="t"/>
+                                    <neume xml:id="neume018" func="melodic temporal" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c"/>
                                 </syllable>
                                 <formula type="syneches-elafron" startid="#neume014" endid="#neume018"/>
                                 <!-- ni-ki-ti-ri-a -->
@@ -162,16 +162,16 @@
                                 </syllable>
                                 <syllable>
                                     <syl>non</syl>
-                                    <neume xml:id="neume046" dur="8" intm="+2" intmb="+1" pname="e">
+                                    <neume xml:id="neume046" dur="8" intm="+2" intmb="+1" pname="e" slur="i">
                                         <neume xml:id="neume047" func="melodic" name="oligon" pos="main"/>
                                         <neume xml:id="neume048" func="dynamic/ornamental" name="psifiston" pos="below"/>
                                     </neume> 
-                                    <neume xml:id="neume048" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="i"/>
+                                    <neume xml:id="neume048" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="t"/>
                                 </syllable>
                                 <!-- ef-cha-ri-sti-ri-a-->
                                 <syllable>
                                     <syl>ef</syl>
-                                    <neume xml:id="neume050" func="melodic" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c" slur="t"/><!-- goes continously with the previous note -->
+                                    <neume xml:id="neume050" func="melodic" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c"/><!-- goes continously with the previous note -->
                                 </syllable>
                                 <formula type="syneches-elafron" startid="#neume046" endid="#neume050"/>
                                 <syllable>
@@ -268,15 +268,15 @@
                                 <!-- The-o-to-ke, -->
                                 <syllable>
                                     <syl>The-</syl>
-                                    <neume xml:id="neume081" dur="8" intm="-2" intmb="-1" pname="e">
+                                    <neume xml:id="neume081" dur="8" intm="-2" intmb="-1" pname="e" slur="i">
                                         <neume xml:id="neume082" func="melodic" name="apostrofos" pos="main"/>
                                         <neume xml:id="neume083" func="dynamic/ornamental" name="varia" pos="back left"/>
                                     </neume>
-                                    <neume xml:id="neume084" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="i"/>
+                                    <neume xml:id="neume084" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="t"/>
                                 </syllable>
                                 <syllable>
                                     <syl>o-</syl>
-                                    <neume xml:id="neume085" func="melodic" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c" slur="t"/>
+                                    <neume xml:id="neume085" func="melodic" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c"/>
                                 </syllable>
                                 <formula type="syneches-elafron" startid="#neume081" endid="#neume085"/>
                                 <syllable>
@@ -336,15 +336,15 @@
                                 <!-- kra-tos -->
                                 <syllable>
                                     <syl>kra-</syl>
-                                    <neume xml:id="neume104" dur="8" intm="+2" intm="+1" pname="e">
+                                    <neume xml:id="neume104" dur="8" intm="+2" intm="+1" pname="e" slur="i">
                                         <neume xml:id="neume105" func="melodic" name="oligon" pos="main"/>
                                         <neume xml:id="neume106" func="dynamic/ornamental" name="psifiston" pos="below"/>
                                     </neume>
-                                    <neume xml:id="neume107" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="i"/>
+                                    <neume xml:id="neume107" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="t"/>
                                 </syllable>
                                 <syllable>
                                     <syl>tos</syl>
-                                    <neume xml:id="neume108" func="melodic" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c" slur="t"/>
+                                    <neume xml:id="neume108" func="melodic" name="syneches-elafron" dur="4" intm="-2" intmb="-1" pname="c"/>
                                 </syllable>
                                 <formula type="syneches-elafron" startid="#neume104" endid="#neume108"/>
                                 <!-- a-pros-ma-chi-ton, -->
@@ -426,13 +426,13 @@
                                 </syllable>
                                 <syllable>
                                     <syl>non</syl>
-                                    <neume xml:id="neume132" func="melodic" name="apostrofos" dur="8" intm="-2" intmb="-1" pname="f"/>
-                                    <neume xml:id="neume133" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="e" slur="i"/>
+                                    <neume xml:id="neume132" func="melodic" name="apostrofos" dur="8" intm="-2" intmb="-1" pname="f" slur="i"/>
+                                    <neume xml:id="neume133" func="melodic" name="apostrofos-of-syneches-elafron" dur="8" intm="-2" intmb="-1" pname="e" slur="t"/>
                                 </syllable>
                                 <!-- e-lef-the-ro-son -->
                                 <syllable>
                                     <syl>e-</syl>
-                                    <neume xml:id="neume134" func="melodic" name="syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="t" slur="i"/>
+                                    <neume xml:id="neume134" func="melodic" name="syneches-elafron" dur="8" intm="-2" intmb="-1" pname="d" slur="i"/>
                                     <neume xml:id="neume135" dur="8" intm="+2" intmb="+1" pname="e" slur="t">
                                         <neume xml:id="neume136" func="melodic" name="dyo-kendimata" pos="main"/>
                                         <neume xml:id="neume137" func="temporal" name="gorgon" pos="below" effect="#neume134 #neume135"/>
